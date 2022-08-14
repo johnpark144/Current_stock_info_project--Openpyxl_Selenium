@@ -1,3 +1,11 @@
+# - Creater : Yeonghwan Park (John Park)
+# - Tools : Python(Openpyxl, Selenium)
+# - Explantion :
+# This is the program scarping all current stocks info and contain into Excelfile
+# It is very convenient to save current all stock files
+# - Date of creation : Aug 11th 2022
+
+
 from openpyxl.styles import Font, Alignment, PatternFill, Color
 from selenium import webdriver
 from selenium.webdriver.common.by import By
