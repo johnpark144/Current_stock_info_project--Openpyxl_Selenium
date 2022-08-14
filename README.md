@@ -1,4 +1,11 @@
 # Current_stock_info--Openpyxl-Selenium
+- Creater : Yeonghwan Park (John Park)
+- Tools : Python(Openpyxl, Selenium)
+- Explantion :
+This is the program scarping all current stocks info and contain into Excelfile
+It is very convenient to save current all stock files
+- Date of creation : Aug 11th 2022
+
 # Sample Video
 <video src="https://user-images.githubusercontent.com/106279616/184259572-4f988c9a-ee92-44c0-b573-ee8d82b21db5.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/184259572-4f988c9a-ee92-44c0-b573-ee8d82b21db5.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
  </video>
